@@ -1,5 +1,5 @@
 # terraform-azure-mcaf-route-table
-Terraform module that will deploy a route table resource in azure. It has support to loop over multiple routes.
+Terraform module that will deploy a route table resource in azure. It has support to create multiple routes in a loop.
 
 ## Requirements
 
