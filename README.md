@@ -1,3 +1,9 @@
+<!-- migrate-repo:banner -->
+> [!IMPORTANT]
+> **This repository has moved to [`schubergphilis-ep/terraform-azure-mcaf-route-table`](https://github.com/schubergphilis-ep/terraform-azure-mcaf-route-table).**
+> Please update your references and use the new location for issues, PRs, and contributions.
+<!-- migrate-repo:banner -->
+
 # terraform-azure-mcaf-route-table
 Terraform module that will deploy a route table resource in azure. It has support to create multiple routes in a loop.
 
